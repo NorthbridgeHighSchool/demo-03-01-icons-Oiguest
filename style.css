@@ -12,17 +12,17 @@ html {
 }
 
 img {
-  width: 100px;
+  width: 50px;
 }
 
 .logo {
-  width: 200px;
+  width: 100px;
   float: left;
   margin-right: 15px;
 }
 
 .logo2 {
-  width: 200px;
+  width: 100px;
   float: right;
   margin-left: 15px;
 }
